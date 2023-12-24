@@ -1,0 +1,412 @@
+```
+# Ignore node_modules directory and contents
+node_modules/
+
+# Ignore bower_components directory and contents
+bower_components/
+
+# Ignore .DS_Store files on Mac
+.DS_Store
+
+# Ignore thumbnails created by Finder on Mac
+Thumbs.db
+
+# Ignore files created by Windows
+desktop.ini
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore vendor directories
+vendor/
+
+# Ignore compiled JavaScript files
+*.js.map
+
+# Ignore compiled CSS files
+*.css.map
+
+# Ignore Sass source maps
+*.scss.map
+
+# Ignore TypeScript source maps
+*.ts.map
+
+# Ignore editor temporary files
+*~
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore documentation generation artifacts
+docs/
+
+# Ignore logs
+logs/
+
+# Ignore temporary files created by npm
+.npm/
+
+# Ignore temporary files created by yarn
+.yarn/
+
+# Ignore temporary files created by pnpm
+.pnpm/
+
+# Ignore temporary files created by Webpack
+.webpack/
+
+# Ignore temporary files created by Rollup
+.rollup/
+
+# Ignore temporary files created by Parcel
+.parcel-cache/
+
+# Ignore temporary files created by Vite
+.vite/
+
+# Ignore temporary files created by Snowpack
+.snowpack/
+
+# Ignore temporary files created by Next.js
+.next/
+
+# Ignore temporary files created by Nuxt.js
+.nuxt/
+
+# Ignore temporary files created by Gatsby
+.cache/
+
+# Ignore temporary files created by Jekyll
+_site/
+
+# Ignore temporary files created by Hugo
+public/
+
+# Ignore temporary files created by Eleventy
+_site/
+
+# Ignore temporary files created by Forestry
+.forestry/
+
+# Ignore temporary files created by Netlify
+.netlify/
+
+# Ignore temporary files created by Vercel
+.vercel/
+
+# Ignore temporary files created by Zeit Now
+.now/
+
+# Ignore temporary files created by GitHub Pages
+.github/
+
+# Ignore temporary files created by Surge
+.surge/
+
+# Ignore temporary files created by Firebase
+.firebase/
+
+# Ignore temporary files created by Heroku
+.heroku/
+
+# Ignore temporary files created by Zeit Now
+.now/
+
+# Ignore temporary files created by Render
+.render/
+
+# Ignore temporary files created by Fly.io
+.fly/
+
+# Ignore temporary files created by Railway
+.railway/
+
+# Ignore temporary files created by Netlify Edge Functions
+.netlify/functions/
+
+# Ignore temporary files created by Vercel Edge Functions
+.vercel/functions/
+
+# Ignore temporary files created by Cloudflare Workers
+.cloudflare/workers/
+
+# Ignore temporary files created by Deno Deploy
+.deno_deploy/
+
+# Ignore temporary files created by Remix
+.remix/
+
+# Ignore temporary files created by RedwoodJS
+.redwood/
+
+# Ignore temporary files created by Astro
+.astro/
+
+# Ignore temporary files created by SvelteKit
+.svelte-kit/
+
+# Ignore temporary files created by VitePress
+.vitepress/
+
+# Ignore temporary files created by Gridsome
+.gridsome/
+
+# Ignore temporary files created by Nuxt Content
+.nuxt/content/
+
+# Ignore temporary files created by Storybook
+.storybook/
+
+# Ignore temporary files created by Cypress
+.cypress/
+
+# Ignore temporary files created by Playwright
+.playwright/
+
+# Ignore temporary files created by Puppeteer
+.puppeteer/
+
+# Ignore temporary files created by Selenium
+.selenium/
+
+# Ignore temporary files created by WebdriverIO
+.webdriverio/
+
+# Ignore temporary files created by Jest
+.jest/
+
+# Ignore temporary files created by Mocha
+.mocha/
+
+# Ignore temporary files created by Chai
+.chai/
+
+# Ignore temporary files created by Sinon
+.sinon/
+
+# Ignore temporary files created by Jasmine
+.jasmine/
+
+# Ignore temporary files created by AVA
+.ava/
+
+# Ignore temporary files created by Tape
+.tape/
+
+# Ignore temporary files created by Mocha
+.mocha/
+
+# Ignore temporary files created by Cucumber
+.cucumber/
+
+# Ignore temporary files created by Protractor
+.protractor/
+
+# Ignore temporary files created by Nightwatch
+.nightwatch/
+
+# Ignore temporary files created by WebdriverCSS
+.webdrivercss/
+
+# Ignore temporary files created by PhantomJS
+.phantomjs/
+
+# Ignore temporary files created by SlimerJS
+.slimerjs/
+
+# Ignore temporary files created by Zombie.js
+.zombiejs/
+
+# Ignore temporary files created by CasperJS
+.casperjs/
+
+# Ignore temporary files created by Poltergeist
+.poltergeist/
+
+# Ignore temporary files created by NightmareJS
+.nightmarejs/
+
+# Ignore temporary files created by Headless Chrome
+.headlesschrome/
+
+# Ignore temporary files created by Puppeteer Sharp
+.puppeteer-sharp/
+
+# Ignore temporary files created by Playwright Sharp
+.playwright-sharp/
+
+# Ignore temporary files created by Selenium WebDriver Sharp
+.selenium-webdriver-sharp/
+
+# Ignore temporary files created by WebdriverIO Sharp
+.webdriverio-sharp/
+
+# Ignore temporary files created by Jest Sharp
+.jest-sharp/
+
+# Ignore temporary files created by Mocha Sharp
+.mocha-sharp/
+
+# Ignore temporary files created by Chai Sharp
+.chai-sharp/
+
+# Ignore temporary files created by Sinon Sharp
+.sinon-sharp/
+
+# Ignore temporary files created by Jasmine Sharp
+.jasmine-sharp/
+
+# Ignore temporary files created by AVA Sharp
+.ava-sharp/
+
+# Ignore temporary files created by Tape Sharp
+.tape-sharp/
+
+# Ignore temporary files created by Mocha Sharp
+.mocha-sharp/
+
+# Ignore temporary files created by Cucumber Sharp
+.cucumber-sharp/
+
+# Ignore temporary files created by Protractor Sharp
+.protractor-sharp/
+
+# Ignore temporary files created by Nightwatch Sharp
+.nightwatch-sharp/
+
+# Ignore temporary files created by WebdriverCSS Sharp
+.webdrivercss-sharp/
+
+# Ignore temporary files created by PhantomJS Sharp
+.phantomjs-sharp/
+
+# Ignore temporary files created by SlimerJS Sharp
+.slimerjs-sharp/
+
+# Ignore temporary files created by Zombie.js Sharp
+.zombiejs-sharp/
+
+# Ignore temporary files created by CasperJS Sharp
+.casperjs-sharp/
+
+# Ignore temporary files created by Poltergeist Sharp
+.poltergeist-sharp/
+
+# Ignore temporary files created by NightmareJS Sharp
+.nightmarejs-sharp/
+
+# Ignore temporary files created by Headless Chrome Sharp
+.headlesschrome-sharp/
+
+# Ignore temporary files created by Puppeteer Sharp
+.puppeteer-sharp/
+
+# Ignore temporary files created by Playwright Sharp
+.playwright-sharp/
+
+# Ignore temporary files created by Selenium WebDriver Sharp
+.selenium-webdriver-sharp/
+
+# Ignore temporary files created by WebdriverIO Sharp
+.webdriverio-sharp/
+
+# Ignore temporary files created by Jest Sharp
+.jest-sharp/
+
+# Ignore temporary files created by Mocha Sharp
+.mocha-sharp/
+
+# Ignore temporary files created by Chai Sharp
+.chai-sharp/
+
+# Ignore temporary files created by Sinon Sharp
+.sinon-sharp/
+
+# Ignore temporary files created by Jasmine Sharp
+.jasmine-sharp/
+
+# Ignore temporary files created by AVA Sharp
+.ava-sharp/
+
+# Ignore temporary files created by Tape Sharp
+.tape-sharp/
+
+# Ignore temporary files created by Mocha Sharp
+.mocha-sharp/
+
+# Ignore temporary files created by Cucumber Sharp
+.cucumber-sharp/
+
+# Ignore temporary files created by Protractor Sharp
+.protractor-sharp/
+
+# Ignore temporary files created by Nightwatch Sharp
+.nightwatch-sharp/
+
+# Ignore temporary files created by WebdriverCSS Sharp
+.webdrivercss-sharp/
+
+# Ignore temporary files created by PhantomJS Sharp
+.phantomjs-sharp/
+
+# Ignore temporary files created by SlimerJS Sharp
+.slimerjs-sharp/
+
+# Ignore temporary files created by Zombie.js Sharp
+.zombiejs-sharp/
+
+# Ignore temporary files created by CasperJS Sharp
+.casperjs-sharp/
+
+# Ignore temporary files created by Poltergeist Sharp
+.poltergeist-sharp/
+
+# Ignore temporary files created by NightmareJS Sharp
+.nightmarejs-sharp/
+
+# Ignore temporary files created by Headless Chrome Sharp
+.headlesschrome-sharp/
+
+# Ignore temporary files created by Puppeteer Sharp
+.puppeteer-sharp/
+
+# Ignore temporary files created by Playwright Sharp
+.playwright-sharp/
+
+# Ignore temporary files created by Selenium WebDriver Sharp
+.selenium-webdriver-sharp/
+
+# Ignore temporary files created by WebdriverIO Sharp
+.webdriverio-sharp/
+
+# Ignore temporary files created by Jest Sharp
+.jest-sharp/
+
+# Ignore temporary files created by Mocha Sharp
+.mocha-sharp/
+
+# Ignore temporary files created by Chai Sharp
+.chai-sharp/
+
+# Ignore temporary files created by Sinon Sharp
+.sinon-sharp/
+
+# Ignore temporary files created by Jasmine Sharp
+.jasmine-sharp/
+
+# Ignore temporary files created by AVA Sharp
+.ava-sharp/
+
+# Ignore temporary files created by Tape Sharp
+.tape-sharp/
+
+# Ignore temporary files created by Mocha Sharp
+.mocha-sharp/
+
+# Ignore temporary files created by
